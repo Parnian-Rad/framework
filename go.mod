@@ -1,3 +1,3 @@
-module awesomeProject1
+module framework
 
 go 1.18
